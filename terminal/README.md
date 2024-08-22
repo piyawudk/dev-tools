@@ -1,10 +1,10 @@
 # Terminal Customisation 
 
 For:
-- Windows Powershell 5 "WindowsPowerShell"
+- Windows Powershell 5 ***(WindowsPowerShell)***
 <img src="./WindowsPowerShell/preview.png" width="500"/>
 
-- Windows Powersell 7 "PowerShell"
+- Windows Powersell 7 ***(PowerShell)***
 <img src="./PowerShell/preview.png" width="500"/>
 
 ## Requirements:
