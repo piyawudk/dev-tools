@@ -7,6 +7,11 @@ For:
 - Windows Powersell 7 ***(PowerShell)***
 <img src="./PowerShell/preview.png" width="500"/>
 
+Where should I place my file?
+```
+C:\Users\{your_username}\Documents\PowerShell
+```
+
 ## Requirements:
 - [Oh my Posh](https://github.com/JanDeDobbeleer/oh-my-posh/)
 - [Caskaydia Cove NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode)
