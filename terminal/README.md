@@ -9,7 +9,7 @@ For:
 
 Where should I place my file?
 ```
-C:\Users\{your_username}\Documents\PowerShell
+C:\Users\{your_username}\Documents\{PowerShell or WindowsPowerShell}
 ```
 
 ## Requirements:
