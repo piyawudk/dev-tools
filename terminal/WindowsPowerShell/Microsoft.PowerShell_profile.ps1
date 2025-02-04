@@ -18,4 +18,5 @@ If (Test-Path "C:\Users\ASUS\miniconda3\Scripts\conda.exe") {
 }
 #endregion
 
-conda deactivate
+#set default conda env
+conda activate ml
